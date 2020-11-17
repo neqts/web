@@ -1,6 +1,6 @@
 {
   "name": "react-website",
-  "homepage": "https://neqts.github.io/reactWebsite/.",
+  "homepage": "https://neqts.github.io/reactWebsite/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "predeploy":"npm build",
-    "deploy":"gh-pages -d build"
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
