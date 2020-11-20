@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/neqts/web.git/static/css/main.e5c619b4.chunk.css",
+    "main.js": "/neqts/web.git/static/js/main.5bf6e625.chunk.js",
+    "main.js.map": "/neqts/web.git/static/js/main.5bf6e625.chunk.js.map",
+    "runtime-main.js": "/neqts/web.git/static/js/runtime-main.b73dfeae.js",
+    "runtime-main.js.map": "/neqts/web.git/static/js/runtime-main.b73dfeae.js.map",
+    "static/js/2.85ded323.chunk.js": "/neqts/web.git/static/js/2.85ded323.chunk.js",
+    "static/js/2.85ded323.chunk.js.map": "/neqts/web.git/static/js/2.85ded323.chunk.js.map",
+    "index.html": "/neqts/web.git/index.html",
+    "static/css/main.e5c619b4.chunk.css.map": "/neqts/web.git/static/css/main.e5c619b4.chunk.css.map",
+    "static/js/2.85ded323.chunk.js.LICENSE.txt": "/neqts/web.git/static/js/2.85ded323.chunk.js.LICENSE.txt",
+    "static/media/svg-1.454b547f.svg": "/neqts/web.git/static/media/svg-1.454b547f.svg",
+    "static/media/svg-2.5f11287c.svg": "/neqts/web.git/static/media/svg-2.5f11287c.svg",
+    "static/media/svg-3.d908632f.svg": "/neqts/web.git/static/media/svg-3.d908632f.svg",
+    "static/media/svg-4.198c8835.svg": "/neqts/web.git/static/media/svg-4.198c8835.svg",
+    "static/media/video.e86494e4.mp4": "/neqts/web.git/static/media/video.e86494e4.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b73dfeae.js",
+    "static/js/2.85ded323.chunk.js",
+    "static/css/main.e5c619b4.chunk.css",
+    "static/js/main.5bf6e625.chunk.js"
+  ]
+}
